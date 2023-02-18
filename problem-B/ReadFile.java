@@ -24,7 +24,6 @@ public class ReadFile {
     public static void main(String[] args) {
         String filename = "input.txt";
         String absPath = "/code/sdu/pa03-satbekmyrza/12pm/problem-B/input.txt";
-        String winAbsPath = "\\C:\\Users\\sdu\\pa03-satbekmyrza\\12pm\\problem-B\\input.txt";
         String relPath = "test-dir/input.txt";
         String platformIndependentRelPath = "test-dir" + File.separatorChar + "input.txt"; // Best solution!
         try {
