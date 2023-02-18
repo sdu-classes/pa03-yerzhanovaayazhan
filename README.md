@@ -1,1 +1,3 @@
 Please open `INSTRUCTIONS.md` file.
+
+YERZHANOVA AYAZHAN
